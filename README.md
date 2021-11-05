@@ -21,3 +21,8 @@ npm test
 ```sh
 npm run storybook
 ```
+## Images
+
+![Page with fully booked interviews](/screenshots/Interview_Scheduler.png)
+
+![Page with empty positions interviews](/screenshots/Interview_Scheduler1.png)
